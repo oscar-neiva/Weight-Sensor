@@ -1,6 +1,6 @@
 Weight-Sensor 
 ==========
-![License: MIT](https://img.shields.io/github/license/mashape/apistatus.svg)]
+![License: MIT](https://img.shields.io/github/license/mashape/apistatus.svg)
 
 A simple embedded software for Arduino platform.
 
