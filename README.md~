@@ -1,0 +1,20 @@
+Weight-Sensor 
+==========
+[![License: MIT](https://img.shields.io/github/license/mashape/apistatus.svg)][MIT]
+
+O Weight Sensor é um simples projeto para acender e apagar um led através de um medidor de pressão. Neste projeto foi usado também uma placa Arduino Uno e uma protoboard para que os dispositivos fossem conectados entre eles e as portas da placa.
+
+
+Gallery
+-------
+![screenshot 1](https://raw.githubusercontent.com/oscar-neiva/Weight-Sensor/images/picture.png)
+
+
+License
+-------
+
+This code is licensed under [The MIT License (MIT)], of which a textual copy is available at [LICENSE.txt](LICENSE.txt).
+
+
+
+
