@@ -13,7 +13,7 @@ Gallery
 License
 -------
 
-This code is licensed under [The MIT License (MIT)], of which a textual copy is available at [LICENSE.txt](LICENSE.txt).
+This code is licensed under the MIT License (MIT), of which a textual copy is available at [LICENSE.txt](LICENSE.txt).
 
 
 
